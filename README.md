@@ -9,7 +9,7 @@ Challenge details are **[here](https://www.100daysofcode.com/)** 😊
 | 1          |  Started working through Watch and Code: built a simple todo    |
 | 2          |  Going back to basics on Codewars - will do one daily, starting from 8kyu and doing 20 per kyu level until I feel that I'm solid on the concepts    |
 | 3          |  Watch and Code - Computer's perspective - Interlude, Interlude - Questions and quality; Interlude - Functions and variables  |
-| 4          |  Starting Hack Reactor's pre-pre-prep course materials - Module 0   |
+| 4          |  Starting HR's pre-pre-prep course materials - Module 0   |
 | 5          |  Codewars - Working on 7kyu katas now   |
 | 6          |  Totally stuck on Disemvowel Trolls!     |
 | 7          |  HR pre-pre-prep Module 0 - reviewing Arrays and Objects     |
