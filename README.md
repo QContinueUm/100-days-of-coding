@@ -48,4 +48,6 @@ Challenge details are **[here](https://www.100daysofcode.com/)** 😊
 | 40          |  HR SEI-PRP: Live Coding Challenges.     |
 | 41          |  HR SEI-PRP: Mock Technical Interview.     |
 | 42          |  Watch and Code: Objects, Pseudocode review.    |
-| 43          |      |
+| 43          |  Watch and Code: Toggling, Pseudocode review.    |
+| 44          |     |
+| 45          |     |
