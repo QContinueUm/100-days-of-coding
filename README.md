@@ -49,5 +49,11 @@ Challenge details are **[here](https://www.100daysofcode.com/)** 😊
 | 41          |  HR SEI-PRP: Mock Technical Interview.     |
 | 42          |  Watch and Code: Objects, Pseudocode review.    |
 | 43          |  Watch and Code: Toggling, Pseudocode review.    |
-| 44          |     |
-| 45          |     |
+| 44          |  🤒   |
+| 45          |  Watch and Code: Data types and comparisons.    |   |
+| 46          |     |
+| 47          |     |
+| 48          |     |
+| 49          |     |
+| 50          |     |
+| 51          |     |
